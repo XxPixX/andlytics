@@ -2,7 +2,6 @@
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="fill_parent"
     android:layout_height="wrap_content"
-    android:background="@color/andBackground"
     android:paddingBottom="5dp" >
 
     <include layout="@layout/main_list_item_ratings_details" />

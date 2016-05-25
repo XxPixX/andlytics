@@ -171,7 +171,6 @@ public class Main extends BaseActivity implements AdapterView.OnItemSelectedList
 		ActionBar ab = getSupportActionBar();
 		ab.setHomeAsUpIndicator(R.drawable.icon_drawer_menu);
 		ab.setDisplayHomeAsUpEnabled(true);
-		mainToolbar.setBackgroundColor(getResources().getColor(R.color.lightBlue));
 
 		// BaseActivity has already selected the account
 		updateAccountsList();
